@@ -5,25 +5,30 @@ Query dam removal science literature based on dam characteristics and landscape 
 Contact:
 -----------
 Daniel Wieferich (dwieferich@usgs.gov)	
+
 Jeff Duda (jduda@usgs.gov)
 
 -----------
 Collaborators:
 -----------
-Rachelle Johnson (rachellejohnson@usgs.gov)	
-Mellisa Foley	
+Rachelle Johnson (rachellejohnson@usgs.gov)
+	
+Melissa Foley (mfoley@ucsc.edu)
+	
 USGS Powell Center Dam Removal Science Working Group
 
 
 -----------
 Purpose:
 -----------
+
 With an increasing number of dams reaching their life expectancy decisions need to be made on recertification vs. removal.  Being able to quickly access the most relevant dam removal science can be a lengthy task that is not straight forward.
 In addition, there are a number of gaps in current dam removal science.  Being able to retrieve available information can help inform future scientific studies.
+
 -----------
 Additional Details:
 -----------
-We will be using methods outlined in Foley et al 2017.  A stakeholder will identify a dam that is under review for removal.  Physical dam characteristics and landscape characteristics will be used to identify science on similar dams..
+We will be using methods outlined in Foley et al 2017.  A stakeholder will identify a dam that is under review for removal.  Physical dam characteristics and landscape characteristics will be used to identify science on similar dams.
 
 This software is preliminary or provisional and is subject to revision. It is being provided to meet the need for timely best science. 
 The software has not received final approval by the U.S. Geological Survey (USGS). 
