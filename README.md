@@ -4,14 +4,14 @@ Query dam removal science literature based on dam characteristics and landscape 
 -----------
 Contact:
 -----------
-Daniel Wieferich (dwieferich@usgs.gov)
+Daniel Wieferich (dwieferich@usgs.gov)	
 Jeff Duda (jduda@usgs.gov)
 
 -----------
 Collaborators:
 -----------
 Rachelle Johnson (rachellejohnson@usgs.gov)	
-Mellisa Foley 	
+Mellisa Foley	
 USGS Powell Center Dam Removal Science Working Group
 
 
